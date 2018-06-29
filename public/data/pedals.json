@@ -2349,7 +2349,8 @@
         "Name":"22500 Dual Sterep Looper",
         "Width":5.75,
         "Height":4.75,
-        "Image":"ehx-22500.png"
+        "Image":"
+        -22500.png"
     },
     {
         "Brand":"Electro Harmonix",
@@ -2448,6 +2449,13 @@
         "Width":3.95,
         "Height":4.7,
         "Image":"ehx-micropog.png"
+    },
+    {
+        "Brand":"Electro Harmonix",
+        "Name":"Micro Synth",
+        "Width":5.75,
+        "Height":4.75,
+        "Image":"ehx-microsyth.png"
     },
     {
         "Brand":"Electro Harmonix",
